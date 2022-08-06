@@ -1,0 +1,15 @@
+{
+    "name": "vponomarenko/laravel-module-clicker",
+    "autoload": {
+        "psr-4": {
+            "Vponomarenko\\LaravelModuleClicker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "volodymyr.ponomarenko",
+            "email": "volodymyr.ponomarenko@danads.se"
+        }
+    ],
+    "require": {}
+}
